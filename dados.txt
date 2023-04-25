@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Luciano
+-Profissão: Operador de máquinas | transiçao de carreira para aréa de QA
+-Cidade: Fazenda Rio Grande
+-O que faz nas horas vaga: Estudar e jogar games
+-Feedback sobre o curso Qualidade de Software: Tenho curtido bastante, as aulas não são cansativas e são bem dinâmicas, tenho aprendido bastante.
+-Feedback sobre a plataforma de estudo da EBAC: a plataforma se mostrou bem organizada em relação ao módulos e funções da página, e tem um visual bonito.
 
 Obrigado!!!
 
